@@ -1,0 +1,36 @@
+.layout {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+}
+
+/* Main area */
+.main-content {
+  flex: 3;
+}
+
+/* Side section */
+.side-content {
+  flex: 1;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
